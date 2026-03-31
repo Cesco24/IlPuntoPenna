@@ -1,3 +1,2 @@
-print("Bomber")
-
-print("Seguite il.penna su instagram")
+def somma(a,b):
+    return a + b
